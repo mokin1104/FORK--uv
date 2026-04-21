@@ -1,3 +1,7 @@
+## mokin Note
+***This repository is a fork / mirror / study copy used for learning or personal adaptation.
+It is not presented as an original flagship project.***
+
 # uv
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
